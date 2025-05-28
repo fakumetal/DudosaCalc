@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DudosaCalc/static/css/main.be5b9c44.css",
+    "main.js": "/DudosaCalc/static/js/main.febd4fab.js",
+    "static/js/453.0793d7cb.chunk.js": "/DudosaCalc/static/js/453.0793d7cb.chunk.js",
+    "static/media/logo.svg": "/DudosaCalc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/DudosaCalc/index.html",
+    "main.be5b9c44.css.map": "/DudosaCalc/static/css/main.be5b9c44.css.map",
+    "main.febd4fab.js.map": "/DudosaCalc/static/js/main.febd4fab.js.map",
+    "453.0793d7cb.chunk.js.map": "/DudosaCalc/static/js/453.0793d7cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be5b9c44.css",
+    "static/js/main.febd4fab.js"
+  ]
+}
